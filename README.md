@@ -1,5 +1,6 @@
 # ScrollySign
-A few fun pieces of software to use with our MAX7219 LED Matrix Display
+A few fun pieces of software to use with our MAX7219 LED Matrix Display.
+Our display is available here for sale: https://inductivetwig.com/products/led-matrix-display
 
 # Hardware Requirements
 
