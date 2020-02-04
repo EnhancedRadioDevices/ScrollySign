@@ -11,6 +11,7 @@ A few fun pieces of software to use with our MAX7219 LED Matrix Display
 # Software Requirements
 
 * LED Matrix Driver: https://github.com/bartoszbielawski/LEDMatrixDriver
+* (If using python script): feedparser and pyserial -- available on pip
 
 # Hookup Guide
 
@@ -37,7 +38,8 @@ When the sign is done scrolling the current text, it will move on to the next. I
 
 1. Install the Arduino sofwtware as indicated above, taking note what serial port your Arduino Uno is showing up as
 2. We assume you have installed Python, if not, please do so. Its pre-installed on mac and can be accessed via "Terminal"
-3. Use pip (the Python packet manager) to install the pyserial library. IE: pip install pyserial
+3. Use pip (the Python package manager) to install the pyserial library. IE: pip install pyserial
+4. Use pip (the PYthon package manager) to install the feedparser library. IE: pip install feedparser
 4. Edit scrollynews.py and change serialport = "" to your serial port of choice. Ours showed up as /dev/tty.usbmodem145301
 5. Type: python scrollynews.py
 
