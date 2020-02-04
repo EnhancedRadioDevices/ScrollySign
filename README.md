@@ -3,7 +3,7 @@ A few fun pieces of software to use with our MAX7219 LED Matrix Display.
 Our display is available here for sale: https://inductivetwig.com/products/led-matrix-display
 
 
-![ScrollyNews Demo](https://cdn.shopify.com/s/files/1/0925/9692/files/scrollynews_480x480.gif?v=1580860076)
+![ScrollyNews Demo](/scrollynews.gif)
 
 
 # Hardware Requirements
